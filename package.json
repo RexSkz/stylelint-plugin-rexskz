@@ -1,6 +1,6 @@
 {
   "name": "stylelint-plugin-rexskz",
-  "version": "1.0.0-alpha.2",
+  "version": "1.0.0-alpha.3",
   "description": "A set of Stylelint rules, used by myself, WILL NOT accept issues or PRs.",
   "main": "index.js",
   "author": "Rex Zeng <rex@rexskz.info>",
