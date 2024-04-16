@@ -13,7 +13,7 @@ module.exports = {
     'keyframe-selector-notation': 'percentage-unless-within-keyword-only-block',
     'length-zero-no-unit': true,
     'media-feature-name-no-vendor-prefix': true,
-    'no-descending-specificity': false,
+    'no-descending-specificity': null,
     'property-no-vendor-prefix': true,
     'selector-attribute-quotes': 'always',
     'selector-no-vendor-prefix': true,
